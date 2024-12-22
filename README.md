@@ -66,8 +66,5 @@ I am a **Machine Learning Developer** <img src="https://media.giphy.com/media/WU
 
 ### 🔥 My Stats :
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanishq665&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq665&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq665&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
