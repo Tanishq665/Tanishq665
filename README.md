@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -69,3 +69,7 @@ I am a **Machine Learning Developer** <img src="https://media.giphy.com/media/WU
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishq665/Tanishq665/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Tanishq665/Tanishq665/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  (https://github.com/user-attachments/assets/9669d2ca-a1ee-425c-8dde-9396e5a749e7)
+</div>
