@@ -64,3 +64,8 @@ I am a **Machine Learning Developer** <img src="https://media.giphy.com/media/WU
 <div align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishq665&show_icons=true&locale=en&layout=compact" alt="tanishq665" />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq665/Tanishq665/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishq665/Tanishq665/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tanishq665/Tanishq665/output/github-snake.svg" />
+</picture>
