@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me :
 I am a **Machine Learning Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🔭 I’m working as a **AIML and Gen AI** 
+- 🔭 I’m working on **AIML and Gen AI** 
 - 🌱 Exploring **Technical Content Writing**.
 - ⚡ In my free time, I solve problems on **GeeksforGeeks** and read tech articles.
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Tanishq-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-pahuja-54045b2b0/)
