@@ -71,5 +71,5 @@ I am a **Machine Learning Developer** <img src="https://media.giphy.com/media/WU
 </picture>
 
 <div align="center">
-  <img src="https://github.com/Tanishq665/Tanishq665/blob/main/BlueandPinkNeonThanksforWatchingVideo-ezgif.com-video-to-gif-converter.gif" width="1000" height="400"/>
+  <img src="https://github.com/Tanishq665/Tanishq665/blob/main/RedPurpleModernNeonWelcometoMyChannelVideo-ezgif.com-optimize.gif" width="1000" height="400"/>
 </div>
