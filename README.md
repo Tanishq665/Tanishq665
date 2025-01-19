@@ -62,5 +62,5 @@ I am a **Machine Learning Developer** <img src="https://media.giphy.com/media/WU
 
 ### 🔥 My Stats :
 <div align="center">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishq665&show_icons=true&locale=en&layout=compact" alt="tanishq665" /></p
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishq665&show_icons=true&locale=en&layout=compact" alt="tanishq665" />
 </div>
